@@ -1,4 +1,4 @@
-{
+const az_state_legislature = {
     "config": {
       "view": {"continuousWidth": 300, "continuousHeight": 300, "stroke": null}
     },
