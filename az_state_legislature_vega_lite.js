@@ -1,6 +1,6 @@
 const az_state_legislature = {
     "config": {
-      "view": {"continuousWidth": 600, "continuousHeight": 600, "stroke": null}
+      "view": {"continuousWidth": 800, "continuousHeight": 800, "stroke": null}
     },
     "vconcat": [
       {
