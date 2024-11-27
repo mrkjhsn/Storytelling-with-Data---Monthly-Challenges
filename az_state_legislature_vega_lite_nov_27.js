@@ -2,6 +2,8 @@ const az_state_legislature = {
     "config": {
       "view": {"continuousWidth": 800, "continuousHeight": 800, "stroke": null}
     },
+     "width": 300,  // Set the width of the visualization
+    "height": 300,  // Set the height of the visualization
     "vconcat": [
       {
         "data": {"name": "data-a27ef201834c15f1512d534ef20fdf75"},
